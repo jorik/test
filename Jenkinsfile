@@ -2,6 +2,13 @@ pipeline {
   agent none
   stages {
     stage('Test') {
+      
+      agent {
+        docker {
+          image 'microsoft/dotnet:sdk' 
+        }
+      }
+      
       steps {
         sh 'dotnet --version'
       }
