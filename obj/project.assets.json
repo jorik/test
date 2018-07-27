@@ -11512,11 +11512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/private/tmp/tet/tet.csproj",
+      "projectUniqueName": "/Users/jorikvanderwerf/jenkins/tet.csproj",
       "projectName": "tet",
-      "projectPath": "/private/tmp/tet/tet.csproj",
+      "projectPath": "/Users/jorikvanderwerf/jenkins/tet.csproj",
       "packagesPath": "/Users/jorikvanderwerf/.nuget/packages/",
-      "outputPath": "/private/tmp/tet/obj/",
+      "outputPath": "/Users/jorikvanderwerf/jenkins/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
