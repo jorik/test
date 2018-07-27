@@ -29,6 +29,6 @@ pipeline {
           sh 'docker push jorik/webtest:latest'
         }
       }
-    
+   }
   }
 }
